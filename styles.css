@@ -77,20 +77,6 @@
     font-size: 20px;
 }
 
-/* Social Media */
-#social_media {
-    display: flex;
-    justify-content: space-around;
-}
-
-#social_media img {
-    width: 35px;
-}
-
-#social_media img:hover {
-    transform: scale(1.2);
-}
-
 /* Inputs */
 #inputs {
     display: flex;
